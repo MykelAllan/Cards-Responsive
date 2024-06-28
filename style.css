@@ -85,7 +85,7 @@ body {
     filter: drop-shadow(1px 1px 15px rgba(0, 0, 0, 0.5));
 }
 
-@media screen and (min-width: 967px) {
+@media screen and (min-width: 920px) {
     .container {
         align-items: center;
         overflow-y: hidden;
